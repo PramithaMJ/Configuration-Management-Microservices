@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to PMJ accounts related QA APIs "
+  contactDetails:
+    name: "Pramitha - QA Leads"
+    email: "lpramithamj@gmail.com"
+  onCallSupport:
+    - (555) 666-1234
+    - (555) 666-1345

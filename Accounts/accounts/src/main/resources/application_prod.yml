@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to PMJ accounts related prod APIs "
+  contactDetails:
+    name: "Mihiranga - Product Owner"
+    email: "lpramithamj@gmail.com"
+  onCallSupport:
+    - (555) 777-1234
+    - (555) 777-1345
